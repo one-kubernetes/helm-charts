@@ -3,6 +3,16 @@ entries:
   hellodevfestnantes:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2021-10-18T20:03:32.650076493Z"
+    description: A Helm chart for Kubernetes
+    digest: 7814ca13615f8a4c832a539749b9196414d59319bd0084940eac20361470dca2
+    name: hellodevfestnantes
+    type: application
+    urls:
+    - https://github.com/one-kubernetes/helm-charts/releases/download/hellodevfestnantes-0.3.0/hellodevfestnantes-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2021-10-18T17:53:27.734005923Z"
     description: A Helm chart for Kubernetes
     digest: 6ef787c86133a7766e7b159a03859769f720c4be7c1cf159ad6a1ebb573416d1
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://github.com/one-kubernetes/helm-charts/releases/download/hellodevfestnantes-0.1.0/hellodevfestnantes-0.1.0.tgz
     version: 0.1.0
-generated: "2021-10-18T17:53:27.734013323Z"
+generated: "2021-10-18T20:03:32.650088593Z"
